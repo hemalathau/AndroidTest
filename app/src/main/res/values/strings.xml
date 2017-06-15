@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SAMPLE PROJECT</string>
+    <string name="app_welcome">Welcome To App Which Contains ListView,Recycler View , Grid ,Horizontal Scroll Images </string>
+</resources>
